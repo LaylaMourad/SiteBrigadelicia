@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<!-- Define o tipo de documento como HTML5 -->
+
+<html lang="pt-br">
+<!-- Abre o elemento HTML e define o idioma da página -->
+
+<head>
+    <meta charset="UTF-8">
+    <!-- Define a codificação de caracteres para UTF-8 -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Configura a viewport para dispositivos móveis -->
+    <title>Brigadelícias</title>
+    <!-- Define o título da página na barra de título do navegador -->
+</head>
+
+<body>
+    <header>
+        <h1>Bem vindo à página do Brigadelícia <img src="https://thumbs.dreamstime.com/z/doces-de-desenho-animado-com-olhos-sobre-fundo-branco-conjunto-bonitos-no-220950249.jpg" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 200px; height: 200px; margin: 0px; width: 362px;" alt="Doces De Desenho Animado Com Olhos Sobre Fundo Branco Ilustração do Vetor -  Ilustração de bolo, olho: 220950249" jsname="kn3ccd" aria-hidden="false"> </h1>
+        <!-- Cria um cabeçalho de nível 1 (h1) com um título -->
+        <h2>Aqui você encontrará nossos deliciosos doces vendidos de forma online, entegues por delivery. A facilidade de adoçar o seu dia está em nossas mãos!
+            <Br> <img src="https://blog.neemo.com.br/wp-content/uploads/2020/02/original-09874a9fa372d19e6da4a01fc45dea76.jpg" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 100px; width: 100px; height: 100px; margin: 0px;" alt="Vale a pena contar com um motoboy CLT? Confira as vantagens! – Blog da Neemo" jsname="kn3ccd" aria-hidden="false"></h2>
+    </header>
+
+    <main>
+        <p> Tudo se iniciou na época da pandemia, onde nossos clientes sentiam falta de nossos doces e por este impedimento não podíamos satisfazê-los. Sendo assim, encontramos uma forma de enviar em suas casas os nossos doces! Tudo higienizado e mantendo a maior distância possível.
+            <Br> Com a volta das normalizações, nossos clientes ficaram satisfeitos com a praticidade em ter os docinhos em mãos sem sair de casa. Nós continuamos e assim, sejam bem vindos a nossa página, delicie-se nos sabores, escolha o que lhe agradar e breve nosso motoboy estará em sua casa! </p>
+        <!-- Cria um parágrafo de texto -->
+
+        <h2>Aqui abaixo estão os mais queridinhos pela clientela!</h2>
+        <!-- Cria um cabeçalho de nível 2 (h2) para a lista -->
+        <ul>
+            <li>Brigadelícia (bombom de brigadeiro recheado de doce ninho. Uma explosão de sabor)</li>
+            <!-- Cria um item de lista não ordenada -->
+            <Br>
+            <li>Olho de Sogra (calma, não lhe traremos um olho! Este delicioso doce é de abacaxi, encoberto de ameixa. Um doce de agradar as vovós, por ser mais equilibrado no açúcar)</li>
+            <Br>
+            <li>Moranguete (parece um doce ninho, mas quem diria, é sabor morango! Ele é coberto com açúcar cristalizado de cor vermelha, olha só que delícia!</li>
+        </ul>
+        <Br>
+        <p>Quer vizualizar o menu e conhecer outras delícias? <a href="https://www.canva.com/design/DAEr3uwyHLA/Yu_pVBgE7STJ83nh0CMGXw/edit?utm_content=DAEr3uwyHLA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> clique aqui!</a>.</p>
+        <!-- Cria um link para uma página externa -->
+        <p>Realize seu pedido! É só <a href="https://www.instagram.com/layla_nonato_mourad/">entrar em contato!</a>.</p>
+        <!-- Cria um link para uma página externa -->
+
+    </main>
+
+    <footer> <br>
+        <p>Todos os direitos autorais.</p>
+        <!-- Cria um rodapé -->
+    </footer>
+</body>
+
+</html>
